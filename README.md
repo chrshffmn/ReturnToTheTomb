@@ -24,10 +24,9 @@ To run this experience you will need the following:
 
 ### For Meta Quest 2 headset
 * VR-ready Windows PC with the assets in this repository stored locally
-Steam VR application and account
+* Steam VR application and account
 * Quest Link cable with successful connection to the VR-ready Windows PC (Meta documentation). This requires a Meta account.
-*
-With the Meta Quest 2 headset connected to the VR-ready Windows PC and Quest Link working correctly, open the folder and double-click the executable file “The Doctor.exe”. 
+* With the Meta Quest 2 headset connected to the VR-ready Windows PC and Quest Link working correctly, open the folder and double-click the executable file “The Doctor.exe”. 
 
 ## References
 Sullivan, Elaine A. and Rita Lucarelli. 2021. “From the museum back to the tomb: The virtual rejoining of a 26th Dynasty sarcophagus and its burial at Saqqara”. Abusir and Saqqara in the Year 2020, edited by Miroslav Bárta, Filip Coppens, and Jaromír Krejčí. Faculty of Arts, Charles University.
