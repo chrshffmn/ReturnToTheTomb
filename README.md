@@ -6,7 +6,7 @@
 
 Directed by Dr. Rita Lucarelli (UC Berkeley) and Dr. Elaine Sullivan (UC Santa Cruz), the project team included staff and student technologists at UC Berkeley and UC Santa Cruz. Development of this version of the experience began in 2019 and ended in 2020 and was funded by a seed grant from the CITRIS and the Banatao Institute of the University of California.
 
-The experience was built using Unity version 2018.3 for the HTC Vive headset. It has been demonstrated to run on HTC Vive, HTC Cosmos, and Meta Quest 2 headsets. See System Requirements below. The contents of this repository include only the compiled application from August 2020. If you are interested in the actual code and assets, please contact the authors.
+The experience was built using Unity version 2018.3.14f1 for the HTC Vive headset. It has been demonstrated to run on HTC Vive, HTC Cosmos, and Meta Quest 2 headsets. See System Requirements below. The contents of this repository include only the compiled application from August 2020. If you are interested in the actual code and assets, please contact the authors.
 
 ## How to contact us
 For questions about this version of the Return to the Tomb VR experience, please contact Dr. Rita Lucarelli (rita.lucarelli at berkeley.edu).
@@ -15,7 +15,7 @@ For questions about this version of the Return to the Tomb VR experience, please
 The Return to the Tomb experience is made available using the Attribution-NonCommercial-NoDerivatives 4.0 International license: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 ## System Requirements
-This version of the Return to the Tomb VR experience was developed using Unity version 2018.3 for the HTC Vive headset using Steam VR. It has also run successfully on the HTC Cosmos headset. These HTC configurations require a tethered connection to a VR-ready Windows PC. The experience also runs on the Meta Quest 2 headset using the Quest Link system to connect the headset to a VR-ready Windows PC.
+This version of the Return to the Tomb VR experience was developed using Unity version 2018.3.14f1 for the HTC Vive headset using Steam VR. It has also run successfully on the HTC Cosmos headset. These HTC configurations require a tethered connection to a VR-ready Windows PC. The experience also runs on the Meta Quest 2 headset using the Quest Link system to connect the headset to a VR-ready Windows PC.
 
 To run this experience you will need the following:
 ### For HTC Vive and HTC Cosmos headsets
