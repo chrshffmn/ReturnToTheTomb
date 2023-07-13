@@ -1,5 +1,6 @@
 # Return To The Tomb
 
+***This repository contains very large files! A downloaded zip file will require approximately 170MB of disk space. When unzipped, the contents will require 670MB of disk space!***
 
 ## Description
 “Return to the Tomb” is a prototype virtual reality (VR) experience that combines a 3D reconstruction model of the ancient Egyptian necropolis of Saqqara with a photogrammetric model of the Late Period basalt inner sarcophagus of Psamtek, “chief physician” and “overseer of the Temehu (Libyan mercenaries)”. 
