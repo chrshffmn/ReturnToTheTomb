@@ -12,7 +12,7 @@ The experience was built using Unity version 2018.3 for the HTC Vive headset. It
 For questions about this version of the Return to the Tomb VR experience, please contact Dr. Rita Lucarelli (rita.lucarelli at berkeley.edu).
 
 ## License
-The Return to the Tomb experience is made available using the Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) license. 
+The Return to the Tomb experience is made available using the Attribution-NonCommercial-NoDerivatives 4.0 International license: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 ## System Requirements
 This version of the Return to the Tomb VR experience was developed using Unity version 2018.3 for the HTC Vive headset using Steam VR. It has also run successfully on the HTC Cosmos headset. These HTC configurations require a tethered connection to a VR-ready Windows PC. The experience also runs on the Meta Quest 2 headset using the Quest Link system to connect the headset to a VR-ready Windows PC.
