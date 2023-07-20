@@ -19,7 +19,7 @@ The Return to the Tomb experience is made available using the Attribution-NonCom
 This version of the Return to the Tomb VR experience was developed using Unity version 2018.3.14f1 for the HTC Vive headset using Steam VR. It has also run successfully on the HTC Cosmos headset. These HTC configurations require a tethered connection to a VR-ready Windows PC. The experience also runs on the Meta Quest 2 headset using the Quest Link system to connect the headset to a VR-ready Windows PC.
 
 ### Download repository from GitHub
-Download this GitHub repository. In most cases, this will involve downloading a zip file of the entire repository using the "Code" button. See instructions [here](https://docs.github.com/en/repositories/working-with-files/using-files/downloading-source-code-archives). However, because some of the content in this repository is large, you may need to download subsets and then reassemble the contents to match the file structure in the repository.
+Download this GitHub repository. In most cases, this will involve downloading a zip file of the entire repository using the "Code" button. See instructions [here](https://docs.github.com/en/repositories/working-with-files/using-files/downloading-source-code-archives). However, because some of the content in this repository is large, you may need to download subsets and then reassemble the contents to match the file structure in the repository. Note that the downloaded zip file will require nearly 170MB of disk space, and when unzipped, the contents will require 670MB of disk space.
 
 To run this experience you will need the following:
 ### For HTC Vive and HTC Cosmos headsets
@@ -30,7 +30,7 @@ To run this experience you will need the following:
 ### For Meta Quest 2 headset
 * VR-ready Windows PC with the assets in this repository stored locally
 * Steam VR application and account
-* Quest Link cable with successful connection to the VR-ready Windows PC (Meta documentation). This requires a Meta account.
+* Quest Link cable with successful connection to the VR-ready Windows PC ([Meta documentation](https://www.meta.com/help/quest/articles/headsets-and-accessories/oculus-link/connect-link-with-quest-2/)). This requires a Meta account.
 * With the Meta Quest 2 headset connected to the VR-ready Windows PC and Quest Link working correctly, open the folder and double-click the executable file “The Doctor.exe”. 
 
 ## References
