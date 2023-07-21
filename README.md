@@ -9,6 +9,8 @@ Directed by Dr. Rita Lucarelli (UC Berkeley) and Dr. Elaine Sullivan (UC Santa C
 
 The experience was built using Unity version 2018.3.14f1 for the HTC Vive headset. It has been demonstrated to run on HTC Vive, HTC Cosmos, and Meta Quest 2 headsets. See System Requirements below. The contents of this repository include only the compiled application from August 2020. If you are interested in the actual code and assets, please contact the authors.
 
+Next Steps: Dr. Lucarelli and Dr. Sullivan are designing a new version of Return to the Tomb which will include more details about the tomb of Psamtek as well as other tombs from Saqqara. For that effort, they are pleased to welcome Dr. Matthias Lang (Universität Bonn) and Dr. Eiman Elgewely (Virginia Tech) to the team.
+
 ## How to contact us
 For questions about this version of the Return to the Tomb VR experience, please contact Dr. Rita Lucarelli (rita.lucarelli at berkeley.edu).
 
