@@ -32,7 +32,7 @@ To run this experience you will need the following:
 ### For Meta Quest 2 headset
 * VR-ready Windows PC with the assets in this repository stored locally
 * Steam VR application and account
-* Quest Link cable with successful connection to the VR-ready Windows PC ([Meta documentation](https://www.meta.com/help/quest/articles/headsets-and-accessories/oculus-link/connect-link-with-quest-2/)). This requires a Meta account.
+* Quest Link cable with successful connection to the VR-ready Windows PC ([cable and PC requirements](https://www.meta.com/help/quest/articles/headsets-and-accessories/oculus-link/meta-quest-link-compatibility/); [setup instructions](https://www.meta.com/help/quest/articles/headsets-and-accessories/oculus-link/connect-link-with-quest-2/)). This requires a Meta account.
 * With the Meta Quest 2 headset connected to the VR-ready Windows PC and Quest Link working correctly, open the folder and double-click the executable file “The Doctor.exe”. 
 
 ## References
